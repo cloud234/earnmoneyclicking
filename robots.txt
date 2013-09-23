@@ -1,0 +1,103 @@
+User-agent: Googlebot
+
+Disallow: /admin/
+Disallow: /background/
+Disallow: /banner/
+Disallow: /php/
+Disallow: /proof/
+Disallow: /text/
+Disallow: /banner.php
+Disallow: /first.php
+Disallow: /last.php
+Disallow: /penult.php
+Disallow: /robots.txt
+
+User-agent: googlebot-mobile
+
+Disallow: /admin/
+Disallow: /background/
+Disallow: /banner/
+Disallow: /php/
+Disallow: /proof/
+Disallow: /text/
+Disallow: /banner.php
+Disallow: /first.php
+Disallow: /last.php
+Disallow: /penult.php
+Disallow: /robots.txt
+
+User-agent: MSNBot
+
+Disallow: /admin/
+Disallow: /background/
+Disallow: /banner/
+Disallow: /php/
+Disallow: /proof/
+Disallow: /text/
+Disallow: /banner.php
+Disallow: /first.php
+Disallow: /last.php
+Disallow: /penult.php
+Disallow: /robots.txt
+
+User-agent: Slurp
+
+Disallow: /admin/
+Disallow: /background/
+Disallow: /banner/
+Disallow: /php/
+Disallow: /proof/
+Disallow: /text/
+Disallow: /banner.php
+Disallow: /first.php
+Disallow: /last.php
+Disallow: /penult.php
+Disallow: /robots.txt
+
+User-agent: Teoma
+
+Disallow: /admin/
+Disallow: /background/
+Disallow: /banner/
+Disallow: /php/
+Disallow: /proof/
+Disallow: /text/
+Disallow: /banner.php
+Disallow: /first.php
+Disallow: /last.php
+Disallow: /penult.php
+Disallow: /robots.txt
+
+User-agent: Robozilla
+
+Disallow: /admin/
+Disallow: /background/
+Disallow: /banner/
+Disallow: /php/
+Disallow: /proof/
+Disallow: /text/
+Disallow: /banner.php
+Disallow: /first.php
+Disallow: /last.php
+Disallow: /penult.php
+Disallow: /robots.txt
+
+User-agent: ia_archiver
+
+Disallow: /admin/
+Disallow: /background/
+Disallow: /banner/
+Disallow: /php/
+Disallow: /proof/
+Disallow: /text/
+Disallow: /banner.php
+Disallow: /first.php
+Disallow: /last.php
+Disallow: /penult.php
+Disallow: /robots.txt
+
+User-agent: *
+Disallow: /
+
+Sitemap: http://www.earnmoneyclicking.com/sitemap.xml
+Crawl-delay: 20
